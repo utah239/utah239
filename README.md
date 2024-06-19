@@ -1,5 +1,5 @@
 I’m @utah239.  
-My current job is maintaining the back system of one of the most famous EC sites in Japan. 
+My current job is maintaining the back system of one of the most famous EC sites in Japan.  
 I'm using C#, Java, PHP, VB, VBS, etc.  
 email:ptyrhys@gmail.com 
 
